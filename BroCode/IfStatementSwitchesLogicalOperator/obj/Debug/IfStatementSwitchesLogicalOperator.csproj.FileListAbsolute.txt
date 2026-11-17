@@ -1,0 +1,7 @@
+D:\Github-Games-Works\C-Sharp-Work\BroCode\IfStatementSwitchesLogicalOperator\bin\Debug\IfStatementSwitchesLogicalOperator.exe.config
+D:\Github-Games-Works\C-Sharp-Work\BroCode\IfStatementSwitchesLogicalOperator\bin\Debug\IfStatementSwitchesLogicalOperator.exe
+D:\Github-Games-Works\C-Sharp-Work\BroCode\IfStatementSwitchesLogicalOperator\bin\Debug\IfStatementSwitchesLogicalOperator.pdb
+D:\Github-Games-Works\C-Sharp-Work\BroCode\IfStatementSwitchesLogicalOperator\obj\Debug\IfStatementSwitchesLogicalOperator.csproj.AssemblyReference.cache
+D:\Github-Games-Works\C-Sharp-Work\BroCode\IfStatementSwitchesLogicalOperator\obj\Debug\IfStatementSwitchesLogicalOperator.csproj.CoreCompileInputs.cache
+D:\Github-Games-Works\C-Sharp-Work\BroCode\IfStatementSwitchesLogicalOperator\obj\Debug\IfStatementSwitchesLogicalOperator.exe
+D:\Github-Games-Works\C-Sharp-Work\BroCode\IfStatementSwitchesLogicalOperator\obj\Debug\IfStatementSwitchesLogicalOperator.pdb

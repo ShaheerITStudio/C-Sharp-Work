@@ -1,0 +1,7 @@
+D:\Github-Games-Works\C-Sharp-Work\BroCode\RandomNumbersAndHypotenuseCalculator\bin\Debug\RandomNumbersAndHypotenuseCalculator.exe.config
+D:\Github-Games-Works\C-Sharp-Work\BroCode\RandomNumbersAndHypotenuseCalculator\bin\Debug\RandomNumbersAndHypotenuseCalculator.exe
+D:\Github-Games-Works\C-Sharp-Work\BroCode\RandomNumbersAndHypotenuseCalculator\bin\Debug\RandomNumbersAndHypotenuseCalculator.pdb
+D:\Github-Games-Works\C-Sharp-Work\BroCode\RandomNumbersAndHypotenuseCalculator\obj\Debug\RandomNumbersAndHypotenuseCalculator.csproj.AssemblyReference.cache
+D:\Github-Games-Works\C-Sharp-Work\BroCode\RandomNumbersAndHypotenuseCalculator\obj\Debug\RandomNumbersAndHypotenuseCalculator.csproj.CoreCompileInputs.cache
+D:\Github-Games-Works\C-Sharp-Work\BroCode\RandomNumbersAndHypotenuseCalculator\obj\Debug\RandomNumbersAndHypotenuseCalculator.exe
+D:\Github-Games-Works\C-Sharp-Work\BroCode\RandomNumbersAndHypotenuseCalculator\obj\Debug\RandomNumbersAndHypotenuseCalculator.pdb

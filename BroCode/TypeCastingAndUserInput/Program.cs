@@ -11,7 +11,11 @@ namespace TypeCastingAndUserInput
         static void Main(string[] args)
         {
             //user input = data provided by the user to the program
-
+            //user input is writen in the console
+            Console.WriteLine("Enter a number: ");
+            string input = Console.ReadLine();
+            int number = int.Parse(input);
+            Console.WriteLine("You entered: " + number);
 
 
 
@@ -50,6 +54,8 @@ namespace TypeCastingAndUserInput
 
             Console.WriteLine("press any key to skip...\a");
             Console.ReadKey();
+
+            
 
         }
     }

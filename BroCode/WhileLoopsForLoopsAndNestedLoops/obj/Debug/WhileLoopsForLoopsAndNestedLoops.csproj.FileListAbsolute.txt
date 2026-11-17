@@ -1,0 +1,7 @@
+D:\Github-Games-Works\C-Sharp-Work\BroCode\WhileLoopsForLoopsAndNestedLoops\bin\Debug\WhileLoopsForLoopsAndNestedLoops.exe.config
+D:\Github-Games-Works\C-Sharp-Work\BroCode\WhileLoopsForLoopsAndNestedLoops\bin\Debug\WhileLoopsForLoopsAndNestedLoops.exe
+D:\Github-Games-Works\C-Sharp-Work\BroCode\WhileLoopsForLoopsAndNestedLoops\bin\Debug\WhileLoopsForLoopsAndNestedLoops.pdb
+D:\Github-Games-Works\C-Sharp-Work\BroCode\WhileLoopsForLoopsAndNestedLoops\obj\Debug\WhileLoopsForLoopsAndNestedLoops.csproj.AssemblyReference.cache
+D:\Github-Games-Works\C-Sharp-Work\BroCode\WhileLoopsForLoopsAndNestedLoops\obj\Debug\WhileLoopsForLoopsAndNestedLoops.csproj.CoreCompileInputs.cache
+D:\Github-Games-Works\C-Sharp-Work\BroCode\WhileLoopsForLoopsAndNestedLoops\obj\Debug\WhileLoopsForLoopsAndNestedLoops.exe
+D:\Github-Games-Works\C-Sharp-Work\BroCode\WhileLoopsForLoopsAndNestedLoops\obj\Debug\WhileLoopsForLoopsAndNestedLoops.pdb
